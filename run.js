@@ -25,10 +25,9 @@ import(getTaskFile(task));
  * @param {string} input
  */
 function trimInput(input) {
-	let leading, trailing;
-	for (leading = 0; input[leading].match(/\s/); leading++);
+	let trailing;
 	for (trailing = input.length; input[trailing - 1].match(/\s/); trailing--);
-	return input.substring(leading, trailing);
+	return input.substring(0, trailing);
 }
 
 /**
