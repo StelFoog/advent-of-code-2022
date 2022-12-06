@@ -1,6 +1,6 @@
 # Advent of Code 2022
 
-My Advent of Code 2022 using JavaScript.
+My Advent of Code 2022 using JavaScript and [Bun](https://bun.sh).
 
 ## Progress
 

@@ -2,5 +2,8 @@
 	"name": "aoc2022",
 	"author": "Samuel Larsson",
 	"type": "module",
-	"license": "MIT"
+	"license": "MIT",
+	"scripts": {
+		"task": "bun run taskRunner.js"
+	}
 }
