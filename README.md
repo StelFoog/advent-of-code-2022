@@ -82,22 +82,22 @@ My Advent of Code 2022 using JavaScript and [Bun](https://bun.sh).
 
 ## Running
 
-To run any of the tasks use `node run [day-part] [useExample: y|n|t|f]`, if no task is specified it defaults to the latest. Can optionally tell the runner to use the example input instead.
+To run any of the tasks use `bun [day-part] [useExample: y|n|t|f]`, if no task is specified it defaults to the latest. Can optionally tell the runner to use the example input instead.
 
 ### Example:
 
 ```sh
 # Run latest task
-node run
-node run l
-node run latest
+bun
+bun l
+bun latest
 
 # Run specific task
-node run 2-1  # Runs day 2 part 1
-node run 17-2 # Runs day 17 part 2
+bun 2-1  # Runs day 2 part 1
+bun 17-2 # Runs day 17 part 2
 
 # Use example input
-node run l y
-node run latest yes
-node run 24-2 true
+bun l y
+bun latest yes
+bun 24-2 true
 ```
