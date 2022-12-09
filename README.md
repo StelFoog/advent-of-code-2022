@@ -28,9 +28,9 @@ My Advent of Code 2022 using JavaScript and [Bun](https://bun.sh).
 - [x] Day 8
   - [x] Part 1
   - [x] Part 2
-- [ ] Day 9
-  - [ ] Part 1
-  - [ ] Part 2
+- [x] Day 9
+  - [x] Part 1
+  - [x] Part 2
 - [ ] Day 10
   - [ ] Part 1
   - [ ] Part 2
