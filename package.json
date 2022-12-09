@@ -1,9 +1,12 @@
 {
-	"name": "aoc2022",
-	"author": "Samuel Larsson",
-	"type": "module",
-	"license": "MIT",
-	"scripts": {
-		"task": "bun run taskRunner.js"
-	}
+  "name": "aoc2022",
+  "author": "Samuel Larsson",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "task": "bun run taskRunner.js"
+  },
+  "dependencies": {
+    "@types/node": "^18.11.12"
+  }
 }

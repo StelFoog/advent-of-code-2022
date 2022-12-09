@@ -1,2 +1,7 @@
+# Input files
 example.txt
 input.txt
+
+# Misc
+bun.lockb
+node_modules
