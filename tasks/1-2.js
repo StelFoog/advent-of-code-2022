@@ -1,4 +1,4 @@
-const { input } = process.env;
+import { input } from '../inputManager';
 
 const evlesInventories = input.split('\n\n').map((inv) => inv.split('\n').map(Number));
 

@@ -1,4 +1,4 @@
-const { input } = process.env;
+import { input } from '../inputManager';
 
 let sum = 0;
 

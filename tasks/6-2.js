@@ -1,4 +1,4 @@
-const { input } = process.env;
+import { input } from '../inputManager';
 
 for (let i = 0; i + 13 < input.length; i++) {
 	const s = input.substring(i, i + 14);

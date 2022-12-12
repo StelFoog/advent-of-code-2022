@@ -4,9 +4,9 @@
   "type": "module",
   "license": "MIT",
   "scripts": {
-    "task": "bun run taskRunner.js"
+    "task": "bun run taskRunner.ts"
   },
   "dependencies": {
-    "@types/node": "^18.11.12"
+    "bun-types": "^0.3.0"
   }
 }

@@ -1,4 +1,4 @@
-const { input } = process.env;
+import { input } from '../inputManager';
 
 const grid = input.split('\n').map((line) => line.split('').map(Number));
 

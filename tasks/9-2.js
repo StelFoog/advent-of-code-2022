@@ -1,4 +1,4 @@
-const { input } = process.env;
+import { input } from '../inputManager';
 
 const visited = { '0.0': true };
 let head = '0.0';

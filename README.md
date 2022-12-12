@@ -1,6 +1,6 @@
 # Advent of Code 2022
 
-My Advent of Code 2022 using JavaScript and [Bun](https://bun.sh).
+My Advent of Code 2022 using TypeScript (and JavaScript) with [Bun](https://bun.sh).
 
 ## Progress
 
