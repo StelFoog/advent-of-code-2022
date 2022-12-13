@@ -40,9 +40,9 @@ My Advent of Code 2022 using TypeScript (and JavaScript) with [Bun](https://bun.
 - [x] Day 12
   - [x] Part 1
   - [x] Part 2
-- [ ] Day 13
-  - [ ] Part 1
-  - [ ] Part 2
+- [x] Day 13
+  - [x] Part 1
+  - [x] Part 2
 - [ ] Day 14
   - [ ] Part 1
   - [ ] Part 2
